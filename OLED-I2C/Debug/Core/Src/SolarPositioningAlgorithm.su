@@ -1,0 +1,5 @@
+../Core/Src/SolarPositioningAlgorithm.c:19:10:roundToHundred	32	static
+../Core/Src/SolarPositioningAlgorithm.c:28:5:compareAndSetHorizontalAngles	32	static
+../Core/Src/SolarPositioningAlgorithm.c:49:5:compareAndSetVerticalAngles	32	static
+../Core/Src/SolarPositioningAlgorithm.c:70:5:checkHorizontalAngleBounds	16	static
+../Core/Src/SolarPositioningAlgorithm.c:83:5:checkVerticalAngleBounds	16	static

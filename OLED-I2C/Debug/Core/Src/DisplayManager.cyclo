@@ -1,0 +1,3 @@
+../Core/Src/DisplayManager.c:31:6:displayParameters	1
+../Core/Src/DisplayManager.c:51:6:displayState	3
+../Core/Src/DisplayManager.c:75:6:togglePositioningState	3

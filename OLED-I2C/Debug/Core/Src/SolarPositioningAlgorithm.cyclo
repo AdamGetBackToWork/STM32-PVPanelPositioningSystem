@@ -1,0 +1,5 @@
+../Core/Src/SolarPositioningAlgorithm.c:19:10:roundToHundred	2
+../Core/Src/SolarPositioningAlgorithm.c:28:5:compareAndSetHorizontalAngles	5
+../Core/Src/SolarPositioningAlgorithm.c:49:5:compareAndSetVerticalAngles	5
+../Core/Src/SolarPositioningAlgorithm.c:70:5:checkHorizontalAngleBounds	3
+../Core/Src/SolarPositioningAlgorithm.c:83:5:checkVerticalAngleBounds	3

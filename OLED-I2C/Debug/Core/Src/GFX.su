@@ -1,0 +1,3 @@
+../Core/Src/GFX.c:25:6:GFX_draw_char	40	static
+../Core/Src/GFX.c:94:6:GFX_draw_string	64	static
+../Core/Src/GFX.c:116:6:GFX_draw_fill_rect	32	static
