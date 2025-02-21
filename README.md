@@ -3,12 +3,18 @@
 Author: Adam Szajgin \
 Date: 02/2024 - 06/2024 \
 As part of: Microcontroller Programming University course \
-Under: Warsaw University of Technology Faculty of Electronics and Infromation Technology \
+Under: Warsaw University of Technology Faculty of Electronics and Infromation Technology 
 
 > I know the name "OLED-I2C" is misleading, however i dont want to waste time on changing it...(STM32CubeIDE project name changes
 tend to be difficult) it was a working name and
 it will remain as such. \
 > I know that the comments are in polish. I had to, sorry :(
+
+# DEMO:
+
+
+Here is a little video showcasing the final stage of the project:
+
 
 ### General Premise of the Project:
 
