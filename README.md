@@ -43,29 +43,11 @@ Let's discuss the hardware first, as to know what the f we're programming later.
 
 ### Project Structure
 
-The only interesting dirs are Inc and Src. So here they are:
+The structure may seem a bit disorganized. However, it has a lot of auto-generated files as thats how CubeIDE deals with peripheral use. 
 
-- Inc
-  - DisplayManager.h
-  - GFX.h
-  - ManualSteering.h
-  - SSD1306.h
-  - ServoManager.h
-  - SolarAlgorithm.h
-  - SolarPositioningAlgorithm.h
-  - adc.h
-  - dataStructs.h
-  - dma.h
-  - font_ascii_5x7.h
-  - gpio.h
-  - i2c.h
-  - main.h
-  - stm32l0xx_it.h
-  - systemStructs.h
-  - tim.h
-  - usart.h
--Src
-  -
+In OLED-I2C/Core/Src are located the important parts of the project from an understanding of it standpoint. 
+
+
 ###  Positioning algorithms - explanation
 
 - Manual Positioning 
